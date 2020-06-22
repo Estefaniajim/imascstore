@@ -1,0 +1,40 @@
+html, body{
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+}
+
+.MapContainer{
+  height: 80vh;
+  background-color: red;
+}
+
+.other{
+  height:100%;
+  background-color: blue;
+}
+
+.navbar {
+  background-color: #afcbff;
+  color: #0e1c36;
+}
+
+.navbar .brand-logo{
+  color: #0e1c36;
+}
+
+.navbar a {
+  color: #0e1c36;
+}
+
+.navbar ul a {
+  color: #0e1c36;
+}
+
+.clickable{
+  z-index: 500;
+  cursor: pointer;
+}

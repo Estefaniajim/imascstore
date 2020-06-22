@@ -1,0 +1,14 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+description ="Hola"
+[tool.poetry.dependencies]
+flask = "==1.0.2"
+python = "^3.8"
+pandas = "^1.0"
+pymongo = "^3.10"
+python-dotenv = "^0.13.0"
+dnspython = "^1.16.0"
+
