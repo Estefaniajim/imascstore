@@ -5,7 +5,7 @@ name = "root"
 version = "0.0.0"
 description ="Hola"
 [tool.poetry.dependencies]
-flask = "==1.0.2"
+flask = "==2.2.5"
 python = "^3.8"
 pandas = "^1.0"
 pymongo = "^3.10"
